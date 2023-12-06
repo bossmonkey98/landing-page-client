@@ -36,7 +36,5 @@
     ]
   },
   "devDependencies": {
-    "browserslist": "^4.22.2",
-    "@babel/plugin-proposal-private-property-in-object": "^1.0.0"
   }
 }

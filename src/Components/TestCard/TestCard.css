@@ -13,6 +13,16 @@
     color:#000;
 }
 
+@media (max-width: 991px) {
+    .wrapper {
+      min-width:100%;
+      padding: 10px;
+      margin: 10px 0px;
+      display: flex;
+      justify-content: center;
+    }
+  }
+
 .name{
     font-family: 'inter';
     font-size: 16px;
